@@ -1,4 +1,4 @@
-import 'package:esp_provisioning_wifi/src/flutter_esp_ble_prov/flutter_esp_ble_prov.dart';
+import 'package:saveeye_provisioning/src/flutter_esp_ble_prov/flutter_esp_ble_prov.dart';
 
 /// The EspProvisioningService class is a singleton that returns an instance of the FlutterEspBleProv
 /// class
