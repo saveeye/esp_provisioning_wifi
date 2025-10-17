@@ -1,10 +1,9 @@
-
 ![logo]
 
 [![pub package][pub_badge]][pub_link]
 [![License: MIT][license_badge]][license_link]
 
-# esp_provisioning_wifi
+# saveeye_provisioning
 
 Library to provision WiFi on ESP32 devices over Bluetooth, using Bloc.
 
@@ -35,8 +34,8 @@ Bluetooth permissions are automatically requested by the library.
 
 ### iOS 13.0+
 
-
 Add this in your `ios/Runner/Info.plist`:
+
 ```
 <key>NSBluetoothAlwaysUsageDescription</key>
 <string>Our app uses bluetooth to find, connect and transfer data between different devices</string>

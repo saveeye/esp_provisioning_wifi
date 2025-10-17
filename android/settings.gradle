@@ -1,4 +1,4 @@
-rootProject.name = 'esp_provisioning_wifi'
+rootProject.name = 'saveeye_provisioning'
 
 dependencyResolutionManagement {
     repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)

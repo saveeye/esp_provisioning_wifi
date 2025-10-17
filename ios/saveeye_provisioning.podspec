@@ -3,7 +3,7 @@
 # Run `pod lib lint flutter_esp_ble_prov.podspec` to validate before publishing.
 #
 Pod::Spec.new do |s|
-  s.name             = 'esp_provisioning_wifi'
+  s.name             = 'saveeye_provisioning'
   s.version          = '0.0.5'
   s.summary          = 'A new Flutter plugin project.'
   s.description      = <<-DESC
