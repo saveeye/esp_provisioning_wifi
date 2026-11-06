@@ -1,6 +1,6 @@
 name: saveeye_provisioning
 description: Provisioning library for saveeye devices. Don't use directly, use saveeye_flutter_sdk instead.
-version: 0.0.5
+version: 0.0.6
 repository: https://github.com/saveeye/esp_provisioning_wifi
 
 environment:
@@ -42,7 +42,7 @@ flutter:
         package: how.virc.flutter_esp_ble_prov
         pluginClass: FlutterEspBleProvPlugin
       ios:
-        pluginClass: FlutterEspBleProvPlugin
+        pluginClass: SwiftFlutterEspBleProvPlugin
 
   # To add assets to your plugin package, add an assets section, like this:
   # assets:
